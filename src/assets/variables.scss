@@ -1,8 +1,9 @@
 // fonts
-$fontfamily: 16px;
-$fontsize: 16px;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
+$fontfamily: Montserrat;
+$fontsize: 12px;
 
 //colors
-$textcolor: #333;
-$main: #fff;
-$accent: orange;
+$textcolor: #333333;
+$accent: #A1D214;
+$secondary: #333333;
